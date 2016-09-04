@@ -4,4 +4,3 @@ typings/
 node_modules/
 .DS*
 ._.*
-config/*
