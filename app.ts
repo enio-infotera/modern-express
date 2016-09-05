@@ -1,5 +1,4 @@
 import * as express from 'express';
-import * as path from 'path';
 import * as logger from 'morgan';
 import * as bodyParser from 'body-parser';
 import * as root from 'app-root-path';
