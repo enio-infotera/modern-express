@@ -4,10 +4,10 @@ This project is used to quickly get started with TypeScript using Express. The i
 
 1. Automates the task of configuring Express
 2. Cleanly installs and setups TypeScript with out polluting the global system scope
-3. Creates basic Express project to write ES6 or TypeScript code
-4. Cleanly builds ES6 or TypeScript code into a build directory
+3. Creates basic Express project to write TypeScript code
+4. Cleanly builds TypeScript code into a build directory
 5. Stores and Saves Typings for VSCode
-6. Uses `ejs` templates that can be exchanged
+6. Uses `ejs` templates 
 
 **Setup**
 ---
@@ -21,12 +21,6 @@ npm install
 ---
 ```
 npm run build
-```
-
-**Run Tests**
----
-```
-npm run test
 ```
 
 **Run Application**
